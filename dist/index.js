@@ -108,13 +108,13 @@ function LinkPreview(props) {
       className: styles.domain
     }, /*#__PURE__*/React__default.createElement("span", {
       className: (styles['animated-background'])
-    }, "facebook.com")), /*#__PURE__*/React__default.createElement("div", {
+    })), /*#__PURE__*/React__default.createElement("div", {
       className: styles['link-data-loader']
     }, /*#__PURE__*/React__default.createElement("div", {
       className: (styles['animated-background'])
-    }, "Shashank Shekhar"), /*#__PURE__*/React__default.createElement("div", {
+    }), /*#__PURE__*/React__default.createElement("div", {
       className: (styles['animated-background'])
-    }, "This is some description"))), /*#__PURE__*/React__default.createElement("div", {
+    }))), /*#__PURE__*/React__default.createElement("div", {
       className: styles['link-image-loader']
     }, /*#__PURE__*/React__default.createElement("div", {
       className: styles.img
