@@ -95,15 +95,15 @@ function LinkPreview(props) {
                   (styles['link-url-loader'], styles['animated-background'])
                 }
               >
-                facebook.com
+                
               </span>
             </div>
             <div className={styles['link-data-loader']}>
               <div className={(styles.p1, styles['animated-background'])}>
-                Shashank Shekhar
+               
               </div>
               <div className={(styles.p2, styles['animated-background'])}>
-                This is some description
+               
               </div>
             </div>
           </div>
