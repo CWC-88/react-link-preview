@@ -3,13 +3,13 @@
 	"version": "0.2.2",
 	"private": false,
 	"description": "A component package which helps you render the preview of any link",
-	"author": "cc",
+	"author": "ashwamegh",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
 		"url": "git://github.com/CWC-88/react-link-preview.git"
 	},
-	"homepage": "https://github.com/CWC-88/react-link-preview",
+	"homepage": "https://github.com/CWC-88/react-link-preview#readme",
 	"main": "dist/index.js",
 	"module": "dist/index.modern.js",
 	"source": "src/index.js",
